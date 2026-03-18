@@ -1,5 +1,5 @@
 function App() {
-    return 'hello world'
+    return <>안녕</>
 }
 
 export default App
